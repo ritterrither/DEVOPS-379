@@ -9,7 +9,7 @@
       },
       "version": "1.0"
   },
-  "basePath": "Cloud%20Governance%20Modern%20API%20Endpoint",
+  "basePath": "/Cloud%20Governance%20Modern%20API%20Endpoint",
   "paths": {
       "/auth/token/delegate": {
           "post": {
